@@ -1,0 +1,65 @@
+{
+  "Groups": {
+    "DC": [{
+      "family": {
+        "dad": false,
+        "mom": false
+      },
+      "group": "DC",
+      "movieCount": 0,
+      "name": "Batman",
+      "power": "money"
+    }, {
+      "family": {
+        "dad": true,
+        "mom": true
+      },
+      "group": "DC",
+      "movieCount": 2,
+      "name": "Superman",
+      "power": "superness"
+    }],
+    "Marvel": [{
+      "family": {
+        "dad": false,
+        "mom": true
+      },
+      "group": "Marvel",
+      "movieCount": 0,
+      "name": "Spiderman",
+      "power": "spiderness"
+    }]
+  },
+  "Heros": [
+    {
+      "family": {
+        "dad": false,
+        "mom": false
+      },
+      "group": "DC",
+      "movieCount": 0,
+      "name": "Batman",
+      "power": "money"
+    },
+    {
+      "family": {
+        "dad": false,
+        "mom": true
+      },
+      "group": "Marvel",
+      "movieCount": 0,
+      "name": "Spiderman",
+      "power": "spiderness"
+    },
+    {
+      "family": {
+        "dad": true,
+        "mom": true
+      },
+      "group": "DC",
+      "movieCount": 2,
+      "name": "Superman",
+      "power": "superness"
+    }
+  ]
+}

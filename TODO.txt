@@ -1,0 +1,29 @@
+get all heros x
+get all families x
+modify hero x
+insert new heros x
+get specific hero x
+get family by id x
+delete hero by id x
+delete family by id x
+insert new family in id x
+modify family x
+
+Rework databases. x
+    Structure database on firebase docs. x
+
+
+insert Groups  
+    create groups branch in firebase x
+    insert new groups x
+get Groups x
+get Heros in Groups x
+get heros by name  x
+
+
+ts-node as dev
+typescript as dev
+define types
+@types/node
+
+run tsc -init or init.

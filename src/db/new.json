@@ -1,0 +1,90 @@
+{
+  "Groups": {
+    "DC": {
+      "0": {
+        "family": {
+          "dad": false,
+          "mom": false
+        },
+        "group": "DC",
+        "movieCount": 0,
+        "name": "Batman",
+        "power": "money"
+      },
+      "2": {
+        "family": {
+          "dad": true,
+          "mom": true
+        },
+        "group": "DC",
+        "movieCount": 2,
+        "name": "Superman",
+        "power": "superness"
+      }
+    },
+    "Marvel": {
+      "0": {
+        "family": {
+          "dad": false,
+          "mom": true
+        },
+        "group": "Marvel",
+        "movieCount": 0,
+        "name": "Spiderman",
+        "power": "spiderness"
+      },
+      "-Mlzr7ucjnybVrgi3U73": {
+        "family": {
+          "dad": true,
+          "mom": true
+        },
+        "group": "Marvel",
+        "movieCount": 0,
+        "name": "Doc Strange",
+        "power": "Speed"
+      }
+    }
+  },
+  "Heros": {
+    "0": {
+      "family": {
+        "dad": false,
+        "mom": false
+      },
+      "group": "DC",
+      "movieCount": 0,
+      "name": "Batman",
+      "power": "money"
+    },
+    "1": {
+      "family": {
+        "dad": false,
+        "mom": true
+      },
+      "group": "Marvel",
+      "movieCount": 0,
+      "name": "Spiderman",
+      "power": "spiderness"
+    },
+    "2": {
+      "family": {
+        "dad": true,
+        "mom": true
+      },
+      "group": "DC",
+      "movieCount": 2,
+      "name": "Superman",
+      "power": "superness"
+    },
+    "-Mlzr7ucjnybVrgi3U73": {
+      "family": {
+        "dad": true,
+        "mom": true
+      },
+      "group": "Marvel",
+      "movieCount": 0,
+      "name": "Doc Strange",
+      "power": "Speed"
+    }
+  }
+}
